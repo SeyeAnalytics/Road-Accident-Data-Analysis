@@ -1,3 +1,3 @@
 # Road-Accident-Data-Analysis
 
-![] (Introduction.jpg)
+![](Introduction.jpg)
