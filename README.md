@@ -24,7 +24,8 @@ The following PowerBI features were incorporated:
 ## Modelling
 ![](modelling_image.png)
 
-
 You can interact with the report [here](https://www.novypro.com/profile_projects/oluwaseyebanjo)
 ![](dashboard_image.png)
+
+## Analysis:
 
