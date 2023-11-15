@@ -16,7 +16,7 @@ Current Year Casualties by Area/Location and by Day/Night
 Total Casualties and Total Accidents by Location
 
 ## Skills Demonstrated
-The following PowerBI features were incorporated:
+The following PowerBI features were incorporated
 -Quick measures
 -Filter
 -Model
@@ -24,7 +24,7 @@ The following PowerBI features were incorporated:
 ## Modelling
 ![](modelling_image.png)
 
-You can interact with the report [here](https://www.novypro.com/profile_projects/oluwaseyebanjo)
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/03f33334-9106-405e-9809-3647c1eac251/ReportSection?experience=power-bi)
 ![](dashboard_image.png)
 
 ## Analysis:
