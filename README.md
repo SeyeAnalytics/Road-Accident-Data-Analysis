@@ -11,12 +11,12 @@ Primary KPIs: – Total Casualities and Total Accident values for current year a
 Primary KPI's: Total Casualties by Accident Severity for the current year and YOY growth
 Secondary KPI's: – Total Casualties with respect to vehicle type for the current year.
 Monthly trend showing comparison of casualties for the current year and previous year
-Casualties by road type or current year
-Current Year Casualties by Area/Location and by Day/Night
-Total Casualties and Total Accidents by Location
+Casualties by road type or current year.
+Current Year Casualties by Area/Location and by Day/Night.
+Total Casualties and Total Accidents by Location.
 
 ## Skills Demonstrated
-The following PowerBI features were incorporated
+The following PowerBI features were incorporated.
 -Quick measures
 -Filter
 -Model
@@ -30,9 +30,9 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 ## Analysis:
 ### Total Accidents
 We have a total number of 418K casualties during 2021-2022.
-The Total current year casualties is 196K and the current year growth is -11.89%
-The total current year accident is 144K and current year growth is -11.70%
-The total current year fatal accidents is 2855 and the current year growth -is 33.29%, serious accidents 27K, current year growth -is 16.18%, slight accidents 166K, and current year growth is -10.65%
+The Total current year casualties is 196K and the current year growth is -11.89%.
+The total current year accident is 144K and current year growth is -11.70%.
+The total current year fatal accidents is 2855 and the current year growth -is 33.29%, serious accidents 27K, current year growth -is 16.18%, slight accidents 166K, and current year growth is -10.65%.
 
 ### Casualties by Vehicle type
 We have a total number of 155,805 accidents caused by cars followed by bikes
