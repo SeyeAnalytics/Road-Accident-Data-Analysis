@@ -19,7 +19,9 @@ Total Casualties and Total Accidents by Location.
 The following PowerBI features were incorporated.
 
 -Quick measures
+
 -Filter
+
 -Model
 
 ## Modelling
@@ -42,8 +44,10 @@ The total current year fatal accidents is 2855 and the current year growth -is 3
 
 
 ### Casualties by Vehicle type
+
 We have a total number of 155,805 accidents caused by cars followed by bikes
 
-### Casualties by road type
+### Casualties by Road type
+
 A total number of 145K casualties had accidents on The single-carriageway.
 
